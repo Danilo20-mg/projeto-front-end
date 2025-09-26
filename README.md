@@ -149,4 +149,4 @@ Este projeto foi desenvolvido para fins educacionais como parte do curso de Ciê
 
 ---
 
-**Desenvolvido com pela equipe MyCloset - UNIESP 2025**
+**Desenvolvido pela equipe MyCloset - UNIESP 2025**
